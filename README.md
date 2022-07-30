@@ -1,0 +1,2 @@
+# BestVPN
+All BestVPN Config
